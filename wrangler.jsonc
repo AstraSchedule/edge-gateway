@@ -5,8 +5,8 @@
   "compatibility_date": "2024-11-01",
   "routes": [
     {
-      "pattern": "*example.com/*",
-      "zone_name": "example.com"
+      "pattern": "*-do.getastra.cn/*",
+      "zone_name": "getastra.cn"
     }
   ]
 }
